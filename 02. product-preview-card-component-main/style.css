@@ -94,6 +94,7 @@ main img {
 }
 
 @media (max-width: 375px) {
+
     body{
         display: flexbox;
     }
@@ -105,6 +106,6 @@ main img {
     main{
         padding: 0px 50px;
     }
-
+    
 }
   
