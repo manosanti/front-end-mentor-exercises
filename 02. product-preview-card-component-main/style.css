@@ -92,3 +92,19 @@ main img {
     cursor: pointer;
     background: hsl(158, 36%, 37%);
 }
+
+@media (max-width: 375px) {
+    body{
+        display: flexbox;
+    }
+    
+     img{
+        height: 0px;
+    }
+
+    main{
+        padding: 0px 50px;
+    }
+
+}
+  
