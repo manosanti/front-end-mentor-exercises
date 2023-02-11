@@ -23,7 +23,7 @@ main{
     padding: 30px;
     width: 300px;
     height: min-content;
-    background: hsl(213, 19%, 18%);
+    background: #191d28;
 }
 
 main button{
@@ -36,7 +36,7 @@ main button{
 }
 
 .card svg{
-    background: hsl(216, 12%, 8%);
+    background: hsl(213, 19%, 18%);
     padding: 10px;
     border-radius: 50%;
     margin-bottom: 15px;
@@ -63,13 +63,11 @@ main button{
 }
 
 .feedback h1{
-    justify-content: center;
-    text-align: center;
     color: hsl(216, 12%, 54%);
     font-size: 15px;
     font-weight: 400;
-    padding: 20px;
-    margin: 0px 8px;
-    background-color: hsl(216, 12%, 8%);
+    background: hsl(213, 19%, 18%);
     border-radius: 50%;
+    margin: auto;
+    padding: 20px;
 }
