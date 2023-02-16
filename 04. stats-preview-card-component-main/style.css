@@ -43,16 +43,16 @@ body {
 }
 
 .text-info p {
-    width: 400px;
+    width: fit-content;
     font-size: 15px;
     font-weight: 200;
     color: hsla(0, 0%, 100%, 0.75);
 }
 
 .card-analytics {
-    padding: 0;
+    display: flex;
 }
 
 .analytics {
-    width: min-content;
+    width: 130px;
 }
